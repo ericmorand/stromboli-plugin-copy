@@ -1,0 +1,20 @@
+{
+  "name": "stromboli-plugin-copy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/plugin.js",
+  "scripts": {
+    "test": "tap test/*.js --cov"
+  },
+  "author": {
+    "name": "Eric MORAND"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "promise": "^7.1.1"
+  },
+  "devDependencies": {
+    "stromboli": "^0.7.1",
+    "tap": "^8.0.0"
+  }
+}
